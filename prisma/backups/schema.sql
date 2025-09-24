@@ -1,5 +1,4 @@
 
-\restrict Jabmybbc1U3K85BTqqEaNjEm0go0yffKpYBLu8cLJ7DTYKUfuAMwVTTVOBmAhRE
 
 
 SET statement_timeout = 0;
@@ -290,6 +289,5 @@ ALTER DEFAULT PRIVILEGES FOR ROLE "postgres" IN SCHEMA "public" GRANT ALL ON TAB
 
 
 
-\unrestrict Jabmybbc1U3K85BTqqEaNjEm0go0yffKpYBLu8cLJ7DTYKUfuAMwVTTVOBmAhRE
 
 RESET ALL;
